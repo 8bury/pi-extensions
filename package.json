@@ -1,0 +1,21 @@
+{
+  "name": "pi-extensions",
+  "version": "0.1.0",
+  "description": "Personal extensions for the pi coding agent.",
+  "keywords": [
+    "pi-package",
+    "pi-extensions"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "pi": {
+    "extensions": [
+      "./extensions"
+    ]
+  },
+  "devDependencies": {
+    "@earendil-works/pi-coding-agent": "latest",
+    "@earendil-works/pi-tui": "latest",
+    "typescript": "latest"
+  }
+}
