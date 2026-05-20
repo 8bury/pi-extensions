@@ -1,6 +1,6 @@
 # pi-extensions
 
-Personal extensions for the [pi coding agent](https://github.com/earendil-works/pi-coding-agent).
+Personal extensions for the [pi coding agent](https://github.com/earendil-works/pi).
 
 ## Extensions
 
